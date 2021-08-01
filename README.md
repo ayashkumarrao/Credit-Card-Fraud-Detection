@@ -26,14 +26,14 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 * Model data
   Classification 
-        * Logistic Regression got F1 score on training data of 0.9435
-        * Logistic Regression got F1 score on test data of 0.9282
-        * Decision Tree got F1 score on training data of 1.0
-        * Decision Tree got F1 score on test data of 0.9076
-        * Support Vector Machine got F1 score on training data of 0.5288
-        * Support Vector Machine got F1 score on test data of 0.5384
-        * K-Nearest Neighbors got F1 score on training data of 0.7522
-        * K-Nearest Neighbors got F1 score on test data of 0.5794
+    * Logistic Regression got F1 score on training data of 0.9435
+    * Logistic Regression got F1 score on test data of 0.9282
+    * Decision Tree got F1 score on training data of 1.0
+    * Decision Tree got F1 score on test data of 0.9076
+    * Support Vector Machine got F1 score on training data of 0.5288
+    * Support Vector Machine got F1 score on test data of 0.5384
+    * K-Nearest Neighbors got F1 score on training data of 0.7522
+    * K-Nearest Neighbors got F1 score on test data of 0.5794
 
 * Summarize Findings and Proposed Further Work
 
